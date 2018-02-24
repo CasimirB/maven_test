@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7920" started-at="2018-02-24T19:51:06Z" finished-at="2018-02-24T19:51:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7920" started-at="2018-02-24T19:51:06Z" finished-at="2018-02-24T19:51:14Z">
+      <class name="Sassafras.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Sassafras.NewTest@6fb554cc]" name="beforeTest" is-config="true" duration-ms="5613" started-at="2018-02-24T19:51:06Z" finished-at="2018-02-24T19:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="mavenTest()[pri:0, instance:Sassafras.NewTest@6fb554cc]" name="mavenTest" duration-ms="1476" started-at="2018-02-24T19:51:12Z" finished-at="2018-02-24T19:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Sassafras.NewTest@6fb554cc]" name="afterTest" is-config="true" duration-ms="806" started-at="2018-02-24T19:51:13Z" finished-at="2018-02-24T19:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Sassafras.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
